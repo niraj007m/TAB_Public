@@ -1,3 +1,11 @@
+TAB_Public repo is public now, our team is working on behind / private to drive this bot smoothly, TAB_Public is just a demo of our main project
+
+Contributors of this projects as follows: 
+https://github.com/SimranNaryani
+https://github.com/niraj007m
+
+Simran Naryani: 'SN' is full stack Python developer, full of energetic and deep in coding. 
+
 ## Model overview
 The model is an automated trading model offering the trading functionalities altogether in a single frame which otherwise is distributed on different websites or spaces. Analysis of trading as well can be done. 
 <br>
